@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-"""''''''''''''''''''''''
+"""""
 Fetches data from an API
 and returns information about the employee's todo list progress
-""'''''''''''''''''''''''"
+"""""
 
 import csv
 import requests
